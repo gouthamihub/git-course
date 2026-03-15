@@ -1,3 +1,5 @@
 Has some user details....
 
 I have added this text on 15-03-2026.
+
+creating an avatar for user.
